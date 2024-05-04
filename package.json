@@ -1,0 +1,11 @@
+{
+  "name": "jquery.flot.spline",
+  "version": "0.8.1",
+  "description": "",
+  "main": "jquery.flot.spline.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
